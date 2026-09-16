@@ -18,6 +18,9 @@ public class Vehiculo{
     public String getMarca(){
         return this.marca;
     }
+    public String getVelocidadMax(){
+        return this.marca;
+    }
 
     
 }
